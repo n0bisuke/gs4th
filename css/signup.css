@@ -1,0 +1,25 @@
+
+
+header {
+    margin:0px 0px 0px 0px;
+    background-color: #00b389;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+main {
+    margin:0px 0px 0px 0px;
+    text-align: center;
+    background-color: #F3FCF9;
+}
+
+
+footer {
+    margin-top: 0px;
+    padding: 10px 10px;
+    text-align: center;
+    background-color: #FFFFFF;
+    
+}
